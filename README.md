@@ -85,7 +85,6 @@ Each dashboard is designed to answer a specific analytical question while mainta
 ## 📁 Repository Contents
 - Power BI report (`.pbix`)
 - Dashboard screenshots
-- Data model (schema) visuals
 - Project documentation
 
 ---
